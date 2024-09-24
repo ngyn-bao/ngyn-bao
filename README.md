@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ngyn-bao
 - 🌱 I’m currently learning C++ and Front-end
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: nguyenhoanggiabao3004@gmail.com
 
 <!---
