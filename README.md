@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/last-commit/ngyn-bao/ngyn-bao?logo=github" alt="Last commit"/> 
 
 ***********************************************************************************************************************<br/>
-<h3>『Làm coder lương tháng ngàn đô, cứ phải gọi là "OÁCH XÀ LÁCH VÔ CÙNG" (⌐⎚u⎚)』</h3>
+<h3>『Làm coder lương tháng nghìn đô, cứ phải gọi là "OÁCH XÀ LÁCH VÔ CÙNG" (⌐⎚u⎚)』</h3>
 ***********************************************************************************************************************<br/>
 <div>
     <img align="left" src="https://github.com/user-attachments/assets/a3051d6c-f212-4a82-94de-b6a3e4599393"
