@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72D2D&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ngyn-bao;A+passionate+developer+from+Vietnam" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72D2D&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+ngyn-bao;A+passionate+developer+from+Vietnam" alt="Typing SVG" /></a></h1>
 
 <img src="https://img.shields.io/github/stars/ngyn-bao?style=flat&color=brightgreen&logo=github" alt="Stars"/>&nbsp;
 <img src="https://img.shields.io/github/last-commit/ngyn-bao/ngyn-bao?logo=github" alt="Last commit"/> 
