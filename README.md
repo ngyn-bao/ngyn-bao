@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ngyn-bao</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h2 align="center">A passionate developer from Vietnam</h2>
 <!---
 ngyn-bao/ngyn-bao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>"Làm coder, khổ trước quen sau 🥴"</h4>
+<h3>"Làm coder, khổ trước quen sau 🥴"</h3>
 <br />
 <span>
 How to contact me:
