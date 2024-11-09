@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<span style="font-size: 20px">"Làm coder, khổ trước quen sau 🥴"</span>
+<span style="font-size: 20px; color: rgba(62, 164, 14, 0.8)">"Làm coder, khổ trước quen sau 🥴"</span>
 <br />
 <span style="font-size: 20px">
 How to contact me:
