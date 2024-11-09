@@ -2,6 +2,10 @@
         >ngyn-bao</a
       ></h1>
 <h2 align="center">A passionate developer from Vietnam</h2>
+
+<img src="https://img.shields.io/github/stars/ngyn-bao?style=flat&color=brightgreen&logo=github" alt="Stars"/>&nbsp;
+<img src="https://img.shields.io/github/last-commit/ngyn-bao/ngyn-bao?logo=github" alt="Last commit"/> 
+
 ***********************************************************************************************************************<br/>
 <h3>『Làm coder lương tháng ngàn đô, nói chung là "OÁCH XÀ LÁCH VÔ CÙNG" (⌐⎚u⎚)』</h3>
 ***********************************************************************************************************************<br/>
@@ -30,5 +34,26 @@
     </p>    
 </div>
 </div>
+<br/>
+<div>
+<h2>⚙ Languages, Libraries and Tools:</h2>
+<p align="center">
+        <img src="https://skillicons.dev/icons?i=git,linux,vscode,github" /><br/>
+        <img src="https://skillicons.dev/icons?i=docker,mysql,postman,nodejs,expressjs,prisma" /><br/>
+        <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,sass,react,tailwind" />
+</p>
+</div>
+<br/>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div>
+<h2>📊 Github Stats</h2>
+<div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngyn-bao&theme=transparent"/>
+
+</div>
+<br/>
+<div align="center">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ngyn-bao&show_icons=true&theme=transparent"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngyn-bao&layout=donut&theme=transparent"/> 
+</div>
+ <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
