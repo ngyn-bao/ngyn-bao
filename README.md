@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <span style="font-size: 20px">"Làm coder, khổ trước quen sau 🥴"</span>
+<br />
 <span style="font-size: 20px">
 How to contact me:
       <a href="mailto:nguyenhoanggiabao3004@gmail.com"
