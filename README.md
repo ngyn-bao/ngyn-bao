@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3>"Làm coder, khổ trước quen sau 🥴"</h3>
 <br />
 <span>
-How to contact me:
+📫 How to contact me:
       <a href="mailto:nguyenhoanggiabao3004@gmail.com"
         >**nguyenhoanggiabao3004@gmail.com**</a
       ></span
