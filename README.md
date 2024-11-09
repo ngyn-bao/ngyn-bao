@@ -61,6 +61,6 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <br/>
 <div align="center">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=ngyn-bao&show_icons=true&theme=transparent"/>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngyn-bao&layout=donut&theme=transparent"/> 
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngyn-bao&layout=donut-vertical&theme=transparent"/> 
 </div>
  <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
