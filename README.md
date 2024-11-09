@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span>"Làm coder, khổ trước quen sau 🥴"</span>
+<h4>"Làm coder, khổ trước quen sau 🥴"</h4>
 <br />
-<span style="font-size: 20px">
+<span>
 How to contact me:
       <a href="mailto:nguyenhoanggiabao3004@gmail.com"
         >**nguyenhoanggiabao3004@gmail.com**</a
