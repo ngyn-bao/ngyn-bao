@@ -14,9 +14,10 @@
     <h3>👤 My info:</h3>
     <p>
 - ⚡ My full name: **Nguyễn Hoàng Gia Bảo**<br/>
-- 📚 I'm student at **<a href="https://hcmut.edu.vn" target="blank">Ho Chi Minh City University of Technology</a>**<br/>
-- 🌱 I'm currently learning **Web Development** <br/>
-- 👯 I'm looking forward to learning **Cybersecurity** <br/>
+- 📚 I'm student at **<a href="https://hcmut.edu.vn" target="blank">Ho Chi Minh City University of Technology, HCMUT <br/>
+Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
+- 👨🏻‍💻 I'm currently learning **Web Development** <br/>
+- 👮 I'm looking forward to learning **Cybersecurity** <br/>
     </p>
     <h3>📞 Connect with me via:</h3>
     <p>
