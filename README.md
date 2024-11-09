@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm ngyn-bao</h1>
+<h1 align="center">Hi 👋, I'm  <a href="mailto:nguyenhoanggiabao3004@gmail.com"
+        >ngyn-bao</a
+      ></h1>
 <h2 align="center">A passionate developer from Vietnam</h2>
+***********************************************************************************************************************<br/>
+<h3>『Làm coder lương tháng ngàn đô, nói chung là "OÁCH XÀ LÁCH VÔ CÙNG" (⌐⎚u⎚)』</h3>
+***********************************************************************************************************************<br/>
+<div>
+    <img align="left" src="https://github.com/user-attachments/assets/a3051d6c-f212-4a82-94de-b6a3e4599393"
+    alt=""/>
 
-<h3>"Làm coder, khổ trước quen sau 🥴"</h3>
-![Alt text](https://mcdn.coolmate.me/image/April2023/meme-ech-xanh-9.jpg?raw=true)
-<br />
-    <span>
-      📫 How to contact me:
-      <a href="mailto:nguyenhoanggiabao3004@gmail.com"
-        >**nguyenhoanggiabao3004@gmail.com**</a
-      ></span>
-
-<h3>Connect with me via:</h3>
-    <p align="left">
+<div align="right">
+    <h3>👤 My info:</h3>
+    <p>
+- ⚡ My full name: **Nguyễn Hoàng Gia Bảo**<br/>
+- 📚 I'm student at **<a href="https://hcmut.edu.vn" target="blank">Ho Chi Minh City University of Technology</a>**<br/>
+- 🌱 I'm currently learning **Web Development** <br/>
+- 👯 I'm looking forward to learning **Cybersecurity** <br/>
+    </p>
+    <h3>📞 Connect with me via:</h3>
+    <p>
       <a href="https://fb.com/nguyenhoang.giabao.304" target="blank"
         ><img
           align="center"
@@ -20,4 +27,8 @@
           height="30"
           width="40"
       /></a>
-    </p>
+    </p>    
+</div>
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
