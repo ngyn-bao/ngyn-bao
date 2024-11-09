@@ -1,25 +1,10 @@
 <h1 align="center">Hi 👋, I'm ngyn-bao</h1>
-    <h2 align="center">A passionate developer from Vietnam</h2>
+<h2 align="center">A passionate developer from Vietnam</h2>
 
-    <!--
-**ngyn-bao/ngyn-bao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-    <h3>"Làm coder, khổ trước quen sau 🥴"</h3>
+<h3>"Làm coder, khổ trước quen sau 🥴"</h3>
     <br />
     <span>
       📫 How to contact me:
       <a href="mailto:nguyenhoanggiabao3004@gmail.com"
         >**nguyenhoanggiabao3004@gmail.com**</a
-      ></span
-    >
+      ></span>
