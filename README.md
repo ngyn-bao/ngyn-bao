@@ -45,9 +45,9 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 
 <br/>
 <h2>***🏆Github Trophies***</h2>
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ngyn-bao&theme=nord" alt="ngyn-bao" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ngyn-bao&theme=nord&row=1&column=3" alt="ngyn-bao" />
     </a> 
 </p>
     
