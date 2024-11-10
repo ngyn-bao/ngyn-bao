@@ -11,6 +11,7 @@
     alt=""/>
 
 <div align="right">
+        <!-->Info<-->
     <h3>👤 My info:</h3>
     <p>
 - ⚡ My full name: **Nguyễn Hoàng Gia Bảo**<br/>
@@ -19,6 +20,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 - 👨🏻‍💻 I'm currently learning **Web Development** <br/>
 - 👮 I'm looking forward to learning **Cybersecurity** <br/>
     </p>
+        <!-->Contact<-->
     <h3>📞 Connect with me via:</h3>
     <p>
       <a href="https://fb.com/nguyenhoang.giabao.304" target="blank"
@@ -42,7 +44,14 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 
 </div>
 <br/>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ngyn-bao&theme=nord" alt="ngyn-bao" />
+    </a> 
+</p>
 <div>
+    
+    <!-->Languagues<-->
 <h2>⚙ Languages, Libraries and Tools:</h2>
 <p align="center">
         <img src="https://skillicons.dev/icons?i=git,linux,vscode,github" /><br/>
@@ -53,6 +62,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <br/>
 
 <div>
+    <!-->Stats<-->
 <h2>📊 Github Stats</h2>
 <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngyn-bao&theme=transparent"/>
