@@ -63,7 +63,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <div>
 <h2>***📊 Github Stats***</h2>
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngyn-bao&theme=transparent"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ngyn-bao&theme=transparent&hide_current_streak=true"/>
 
 </div>
 <br/>
