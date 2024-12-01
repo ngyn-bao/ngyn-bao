@@ -54,8 +54,8 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <h2>***⚙ Languages, Libraries and Tools***</h2>
 <p align="center">
         <img src="https://skillicons.dev/icons?i=git,linux,vscode,github" /><br/>
-        <img src="https://skillicons.dev/icons?i=docker,mysql,postman,nodejs,expressjs,prisma" /><br/>
-        <img src="https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,sass,react,tailwind" />
+        <img src="https://skillicons.dev/icons?i=docker,mysql,postman,npm,nodejs,expressjs,prisma,nestjs" /><br/>
+        <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,jquery,bootstrap,sass,react,tailwind" />
 </p>
 </div>
 <br/>
