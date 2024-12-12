@@ -84,10 +84,10 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
   <summary><b>📈 My Contributions</b></summary>
    
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngyn-bao&theme=tokyonight" alt="ngyn-bao" /></p>
- 
 
+<p>&nbsp;<img src="./profile-3d-contrib/profile-night-rainbow.svg"/></p>
 </details>
 
- <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+ 
 
 </details>
