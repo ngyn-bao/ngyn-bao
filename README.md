@@ -63,7 +63,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <div>
 <h2>***📊 Github Stats***</h2>
      <details>
-  <summary><b>📈 My Top Languages</b></summary>
+  <summary><b>⌨  My Top Languages</b></summary>
    
 <p>&nbsp; <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngyn-bao&theme=transparent"/></p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngyn-bao&theme=transparent" alt="ngyn-bao" /></p>
