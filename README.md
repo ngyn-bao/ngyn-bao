@@ -44,7 +44,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <div>
 
 <details>
-    <summary><h2>***🏆Github Trophies***</h2></summary>
+    <summary><h2>***🏆Github Trophies*** (Expand to View)</h2></summary>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ngyn-bao&theme=nord&rank=-?" alt="ngyn-bao" />
@@ -53,7 +53,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 </details>
 
 <details>
-    <summary><h2>***⚙ Languages, Libraries and Tools***</h2></summary>
+    <summary><h2>***⚙ Languages, Libraries and Tools*** (Expand to View)</h2></summary>
 <p align="center">
         <img src="https://skillicons.dev/icons?i=git,linux,vscode,github" /><br/>
         <img src="https://skillicons.dev/icons?i=docker,mysql,postman,npm,nodejs,expressjs,prisma,nestjs" /><br/>
@@ -62,7 +62,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 </div></details>
 
 <details>
-    <summary><h2>***📊 Github Stats***</h2></summary>
+    <summary><h2>***📊 Github Stats*** (Expand to View)</h2></summary>
     <div>
      <details>
   <summary><b>⌨  My Top Languages</b></summary>
