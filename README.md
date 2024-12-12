@@ -62,13 +62,29 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 
 <div>
 <h2>***📊 Github Stats***</h2>
-<div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ngyn-bao&theme=transparent&hide_current_streak=true"/>
+     <details>
+  <summary><b>📈 My Top Languages</b></summary>
+   
+<p>&nbsp; <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngyn-bao&theme=transparent"/></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngyn-bao&theme=transparent" alt="ngyn-bao" /></p>
 
-</div>
-<br/>
+</details>
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
 <div align="center">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=ngyn-bao&show_icons=true&theme=transparent"/>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngyn-bao&layout=donut-vertical&theme=transparent"/> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngyn-bao&layout=donut-vertical&theme=transparent"/> 
 </div>
+
+</details>
+  <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngyn-bao&theme=tokyonight" alt="ngyn-bao" /></p>
+ 
+
+</details>
+<br/>
+
  <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
