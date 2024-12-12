@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/stars/ngyn-bao?style=flat&color=brightgreen&logo=github" alt="Stars"/>&nbsp;
 <img src="https://img.shields.io/github/last-commit/ngyn-bao/ngyn-bao?logo=github" alt="Last commit"/> 
 
-<h3>『Just Code 'n' Roll』</h3>
+<h3>『Let's Code 'n' Roll』</h3>
 
 <div>
     <img align="left" src="https://github.com/user-attachments/assets/316884ff-48d1-4bcc-a4b7-b2d815890ea5"
