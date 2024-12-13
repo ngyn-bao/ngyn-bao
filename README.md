@@ -56,7 +56,7 @@ Vietnam National University Ho Chi Minh City, VNU-HCM</a>**<br/>
 <p align="center">
         <img src="https://skillicons.dev/icons?i=git,linux,vscode,github" /><br/>
         <img src="https://skillicons.dev/icons?i=docker,mysql,postman,npm,nodejs,expressjs,prisma,nestjs" /><br/>
-        <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,jquery,bootstrap,sass,react,tailwind" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,jquery,bootstrap,sass,react,tailwind" />
 </p>
 </div></details>
 
